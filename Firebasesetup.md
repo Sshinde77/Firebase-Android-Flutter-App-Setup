@@ -37,7 +37,7 @@ Click
 
 Example:
 
-![Create Project](images/01-project.png)
+![Create Project](Images/01-project.png)
 
 ---
 
@@ -55,7 +55,7 @@ Project Settings
 
 You should see a page similar to the following.
 
-![Project Settings](images/02-project-settings.png)
+![Project Settings](Images/02-project-settings.png)
 
 ---
 
@@ -65,7 +65,7 @@ Scroll down to **Your Apps**.
 
 Click the **Android** icon.
 
-![Add Android App](images/03-add-app.png)
+![Add Android App](Images/03-add-app.png)
 
 ---
 
@@ -139,7 +139,7 @@ Click
 
 **Register App**
 
-![Register App](images/04-register-app.png)
+![Register App](Images/04-register-app.png)
 
 ---
 
@@ -155,7 +155,7 @@ Click
 
 **Download google-services.json**
 
-![Download JSON](images/05-download-json.png)
+![Download JSON](Images/05-download-json.png)
 
 ---
 
@@ -193,7 +193,7 @@ until Firebase displays
 
 **You're all set!**
 
-![Setup Complete](images/06-complete.png)
+![Setup Complete](Images/06-complete.png)
 
 Click
 
